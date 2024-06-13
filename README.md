@@ -1,3 +1,10 @@
+# Web-Site project created in React
+
+###This is a project for educational purposes.
+
+
+
+___________________________________________________________________________________________________
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
