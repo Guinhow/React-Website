@@ -1,6 +1,6 @@
 # Web-Site project created in React
 
-###This is a project for educational purposes.
+### `This is a project for educational purposes.`
 
 
 
