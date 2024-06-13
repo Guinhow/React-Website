@@ -1,0 +1,11 @@
+.icons {
+    margin-right: 10px;
+    display: flex;
+    
+}
+  
+.icone {
+    list-style: none;
+    padding: 0 15px;
+    cursor: pointer;
+}
